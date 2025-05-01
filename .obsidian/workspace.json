@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "The Idea"
             }
+          },
+          {
+            "id": "e0bf68f82291ba4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Incubator/IoT_based/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +180,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84a1f1aefc712f55",
+  "active": "e0bf68f82291ba4d",
   "lastOpenFiles": [
-    "Resource_Aggregator_Site/The Idea.md",
-    "Resource_Aggregator_Site",
-    "Static_Library"
+    "Incubator/IoT_based/Untitled.md",
+    "Resume_Templates/jake_template.md",
+    "Research_paper/literature_read/05 - Machine Learning in Chaos-Based Encryption - Theory, Implementations, and Applications (2023).md",
+    "Research_paper/literature_read/04 - Chaos-BasedCryptography - A Brief Overview (2001).md",
+    "Research_paper/literature_read/03 - Survey of Chaotic Secure Communication Systems (2003).md",
+    "Research_paper/literature_read/02 - Analysis of Post-Quantum Cryptography for Internet of Things (2022).md",
+    "Research_paper/literature_read/01 - A Compendium of Security Issues in WirelessSensor Networks (chapter 23).md",
+    "Research_paper/Presentation/Guidlines.md",
+    "Research_paper/Presentation/Draft.md",
+    "Research_paper/Presentation/Draft Slide 7.md",
+    "Research_paper/Presentation/Draft Slide 6.md",
+    "Research_paper/Presentation/Draft Slide 5.md",
+    "Research_paper/Presentation/Draft Slide 4.md",
+    "Research_paper/Presentation/Draft Slide 3.md",
+    "Research_paper/Presentation/Draft Slide 2.md",
+    "Research_paper/Presentation/Draft Slide 1.md",
+    "Research_paper/Presentation/8.md",
+    "Research_paper/Final_draft_sections/Untitled.md",
+    "Research_paper/Final_draft_sections/09_References.md",
+    "Research_paper/Final_draft_sections/08_Conclusions.md",
+    "Research_paper/Final_draft_sections/07_Findings and Implications.md",
+    "Research_paper/Final_draft_sections/06_Analysis and Interpretations.md",
+    "Research_paper/Final_draft_sections/05_Research Methodology.md",
+    "Research_paper/Final_draft_sections/04_Research Objective and Research Hypothesis.md",
+    "Research_paper/Final_draft_sections/03_Research Gap - Problem Statement.md",
+    "Research_paper/Final_draft_sections/02_Review of Literature.md",
+    "Research_paper/literature_read",
+    "Research_paper/Presentation",
+    "Research_paper/Final_draft_sections",
+    "Research_paper/Final",
+    "Research_paper/Draft_Paper_sections",
+    "Research_paper",
+    "Incubator/IoT_based",
+    "Resume_Templates",
+    "Incubator",
+    "Sujith_Library"
   ]
 }
