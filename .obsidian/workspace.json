@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6812cef6e83aee61",
+        "id": "354f06df1bff1b17",
         "type": "tabs",
         "children": [
           {
-            "id": "e0297b12f21416a4",
+            "id": "bacb69814367c53d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0297b12f21416a4",
+  "active": "bacb69814367c53d",
   "lastOpenFiles": [
+    "Vu_Library_Site/The Plan.md",
+    "Vu_Library_Site/To do.md",
     "Vu_Library_Site/Resources/Data Base.md",
     "Vu_Library_Site/Resources/web.md",
     "Vu_Library_Site/Resources/Security.md",
@@ -175,11 +177,9 @@
     "Vu_Library_Site/Resources/Java.md",
     "Vu_Library_Site/Resources/Framework.md",
     "Vu_Library_Site/Resources/DSA.md",
-    "Vu_Library_Site/To do.md",
     "Resource_Aggregator_Site/The Idea.md",
     "Vu_Library_Site/Resources/Dump.md",
     "Vu_Library_Site/Resources/Dump 1.md",
-    "Vu_Library_Site/The Plan.md",
     "Vu_Library_Site/Resources",
     "Sujith_Library/Site_Structure.md",
     "Sujith_Library/sidebar.md",
