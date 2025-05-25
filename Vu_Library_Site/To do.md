@@ -1,4 +1,21 @@
 
+ADD drive link to MCA Resource Section
+
+Leetcode left out
+
+> ALL Pages NEED a Heading, h1 works best
+
+Need a Syllabus for each sem 
+
+Resources Links have to be Collected ( can end up clearing the Browser Tabs )
+
+Should have Clean Start, no theme dependent Front page Tabs
+Move up button or persistant header/nav bar ( No default, can do with Component)
+Presentation Section, image card Component,  Carasol Component 
+( Search Components )
+Images for individual Books, ( Really !!)
+Github dashboard, No Sidebar, 
+
 > [!done]
 > * Python Functions section needs breaking
 > * MCA section,  in the main page as "MCA Section"
@@ -14,38 +31,44 @@
 > * Styling inconsistency with Books card, sections card.
 > * Profile Page, Project Page Added Without Theme
 > * DARK THEME CODE HIGHLIGHT Github Dark
-> * MCA Section (Basic done)
+> * MCA Section restructured with sidebar
 > * Nav bar has less topics
 > * Need to override Default Styling of components ( Front Page Done)
 > * Mention Empty ones as Empty or remove Links
 > * OS NEED MAJOR FIX
 > * JavaScript Functions , DOM , UI, C Book need cut
+> * blank files and index files removed
+> * The Double Line issue (Only H2 have default top line) `^##(?!#)`
+> * h2 issue in profile page overridden
+
+
+___
+### Advance
+
+
+Using Netlify functions to connect forms to email, and whatever else it can do
+
+Firebase auth seems too much, netlify is supporting Auth0 integration
 
 
 > [!Major]
-> Shifted to Netlify to Expand on Backend
+> * Shifted to Netlify to Expand on Backend
+> * Added Goat Counter to Track Usage `https://sujith.goatcounter.com/`
 
-Should have Clean Start, no theme dependent Front page Tabs
+```js
+<script data-goatcounter="https://sujith.goatcounter.com/count"
+	async src="//gc.zgo.at/count.js"></script>
 
-Need a Syllabus for each sem 
 
-Move up button or persistant header/nav bar ( No default, can do with Component)
+// adding to each file through function
+if(typeof window !== 'undefined') {
+      const script = document.createElement('script')
+      script.setAttribute('data-goatcounter', 'https://sujith.goatcounter.com/count')
+      script.setAttribute('src', '//gc.zgo.at/count.js')
+      script.setAttribute('async', 'true')
+      document.body.appendChild(script)
+    }
+```
 
-Presentation Section, image card Component,  Carasol Component 
-( Search Components )
-
-Images for individual Books, ( Really !!)
-
-Github dashboard, No Sidebar, 
-
-Leetcode left out
-
-___
-
-> ALL Pages NEED a Heading and There is The Double Line issue
-
-____
-
-Resources Links have to be Collected ( can end up clearing the Browser Tabs )
 
 ___
